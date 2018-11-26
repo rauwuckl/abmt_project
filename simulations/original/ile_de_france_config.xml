@@ -54,6 +54,8 @@
     </module>
 
     <module name="planCalcScore">
+      <param name="writeExperiencedPlans" value="true" />
+
         <parameterset type="activityParams">
             <param name="activityType" value="home" />
             <param name="scoringThisActivityAtAll" value="false" />
