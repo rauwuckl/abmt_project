@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<links_to_delete>
+   <link id="159385"
+         from="259637377"
+         to="368142"
+         length="173.18612223522098"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="159388"
+         from="368141"
+         to="208381519"
+         length="71.77297502144833"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="159390"
+         from="368142"
+         to="368141"
+         length="96.94529132108664"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="199-608079"
+         from="676821316"
+         to="676890491"
+         length="124.99795441571798"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+			   <attributes>
+				     <attribute name="origid" class="java.lang.String">null-null</attribute>
+			   </attributes>
+		</link>
+   <link id="236003"
+         from="368140"
+         to="644163"
+         length="24.42254246673468"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="240276"
+         from="361068"
+         to="25554712"
+         length="35.66665789549347"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="240278"
+         from="25554712"
+         to="5041260581"
+         length="89.7488244450559"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="240395"
+         from="368195"
+         to="338664953"
+         length="54.53944684186281"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="240977"
+         from="676821350"
+         to="25554694"
+         length="12.414013194121953"
+         freespeed="13.88888888888889"
+         capacity="7500.0"
+         permlanes="5.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="250643"
+         from="644160"
+         to="361068"
+         length="148.3486385794674"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="272529"
+         from="368143"
+         to="259637377"
+         length="67.63382221895802"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="272532"
+         from="208381519"
+         to="368140"
+         length="53.020801071347165"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="287613"
+         from="283555978"
+         to="25671162"
+         length="41.055785312163366"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="287615"
+         from="25671162"
+         to="368143"
+         length="120.94489920973524"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="319528"
+         from="338664953"
+         to="25554243"
+         length="206.57312004616531"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="346923"
+         from="676890491"
+         to="676821350"
+         length="10.764800729969453"
+         freespeed="13.88888888888889"
+         capacity="7500.0"
+         permlanes="5.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="383318-514882"
+         from="1905700651"
+         to="368195"
+         length="407.745468972737"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+			   <attributes>
+				     <attribute name="origid" class="java.lang.String">null-null</attribute>
+			   </attributes>
+		</link>
+   <link id="402812"
+         from="644163"
+         to="376059038"
+         length="168.3954986796102"
+         freespeed="8.333333333333334"
+         capacity="3000.0"
+         permlanes="2.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="432525-432552"
+         from="25669388"
+         to="5059182773"
+         length="136.95933024962386"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+			   <attributes>
+				     <attribute name="origid" class="java.lang.String">null-null</attribute>
+			   </attributes>
+		</link>
+   <link id="448846-589949"
+         from="5041260581"
+         to="5041260574"
+         length="34.70363318305944"
+         freespeed="13.88888888888889"
+         capacity="3000.0"
+         permlanes="2.0"
+         oneway="1"
+         modes="car">
+			   <attributes>
+				     <attribute name="origid" class="java.lang.String">null-null</attribute>
+			   </attributes>
+		</link>
+   <link id="455368-236178-602113"
+         from="5041260574"
+         to="283555978"
+         length="42.56156456923627"
+         freespeed="13.88888888888889"
+         capacity="3000.0"
+         permlanes="2.0"
+         oneway="1"
+         modes="car">
+			   <attributes>
+				     <attribute name="origid" class="java.lang.String">null-null-null</attribute>
+			   </attributes>
+		</link>
+   <link id="496522"
+         from="368190"
+         to="5059182779"
+         length="134.03354455329747"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="496523"
+         from="5059182779"
+         to="5059182780"
+         length="66.09483564607241"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="499496-226050"
+         from="25554694"
+         to="644160"
+         length="133.07185790418285"
+         freespeed="13.88888888888889"
+         capacity="6000.0"
+         permlanes="4.0"
+         oneway="1"
+         modes="car">
+			   <attributes>
+				     <attribute name="origid" class="java.lang.String">null-null</attribute>
+			   </attributes>
+		</link>
+   <link id="525852"
+         from="25554243"
+         to="368190"
+         length="494.6160112810615"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="529627"
+         from="5059182773"
+         to="1905700651"
+         length="256.8801209431048"
+         freespeed="22.22222222222222"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="563213"
+         from="5059182780"
+         to="676821311"
+         length="70.60655845589551"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="563214"
+         from="676821311"
+         to="676821315"
+         length="81.64570211087774"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="563215"
+         from="676821315"
+         to="676821316"
+         length="81.1573609070173"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="6931"
+         from="376059038"
+         to="368175"
+         length="7.423865105536808"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+		</link>
+   <link id="6932"
+         from="368175"
+         to="214843848"
+         length="125.2201151838171"
+         freespeed="13.88888888888889"
+         capacity="4500.0"
+         permlanes="3.0"
+         oneway="1"
+         modes="car">
+		</link>
+</links_to_delete>
