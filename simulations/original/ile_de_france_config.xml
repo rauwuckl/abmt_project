@@ -16,6 +16,7 @@
 		<param name="mobsim" value="JDEQSim" />
         -->
 		<param name="mobsim" value="qsim" />
+    <!-- jdeq sim faster  -->
     </module>
 
     <module name="global" >
@@ -94,5 +95,7 @@
             <param name="strategyName" value="ReRoute" />
             <param name="weight" value="0.1" />
         </parameterset>
+
+        <!-- TimeAllocationMutator -->
     </module>
 </config>
