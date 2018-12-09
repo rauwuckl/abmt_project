@@ -15,7 +15,7 @@
         <!--
 		<param name="mobsim" value="JDEQSim" />
         -->
-		<param name="mobsim" value="JDEQSim" />
+		<param name="mobsim" value="qsim" />
     <!-- jdeq sim faster  -->
     </module>
 
@@ -28,15 +28,15 @@
 	<module name="JDEQSim" >
         <param name="endTime" value="30:00:00" />
 
-		<param name="flowCapacityFactor" value="0.12" />
-		<param name="storageCapacityFactor" value="0.10" />
+		<param name="flowCapacityFactor" value="0.6" />
+		<param name="storageCapacityFactor" value="0.20" />
 	</module>
 
 	<module name="qsim" >
         <param name="endTime" value="30:00:00" />
 
-		<param name="flowCapacityFactor" value="0.012" />
-		<param name="storageCapacityFactor" value="0.10" />
+		<param name="flowCapacityFactor" value="0.02" />
+		<param name="storageCapacityFactor" value="0.20" />
 	</module>
 
 

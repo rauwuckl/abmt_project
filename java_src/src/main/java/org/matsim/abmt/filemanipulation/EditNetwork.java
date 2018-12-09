@@ -22,7 +22,7 @@ public class EditNetwork {
 
         // this line creates a reader, that will store what it reads in the network object stored in the scenario.
         // adapt the path to the path on your filesystem.
-        new MatsimNetworkReader(scenario.getNetwork()).readFile("/home/thibautd/Documents/lectures/2018-ABMT/IDF_Scenario/1pct-cars/ile_de_france_network_simplified.xml.gz");
+        new MatsimNetworkReader(scenario.getNetwork()).readFile("/Users/clemens/Documents/courses/abmt/projects/abmt_project/java_src/scenarios/deleted_road/large_new_network.xml.gz");
 
         // this part gets the network object from the scenario,
         // iterates through all links, and for each link,
@@ -31,19 +31,21 @@ public class EditNetwork {
         // Again, typing "link." will give you access to a list of possible methods.
         // "capacity" in MATSim means flow capacity (vehicles per second)
         Network network = scenario.getNetwork();
-        for (Link link : network.getLinks().values()) {
-            double capacity = link.getCapacity();
-            link.setCapacity(capacity * 2);
-        }
-
-        // This part shows how to get a link with a particular Id.
-        // Ids in MATSim are specific objects, created by Id.createId
-        Id<Link> id = Id.createLinkId("1");
-        Link link = network.getLinks().get(id);
-        link.setCapacity(0);
-
-        // This modifies the network such that link with id "1" is removed
-        network.removeLink(id);
+//        for (Link link : network.getLinks().values()) {
+//            double capacity = link.getCapacity();
+//            link.setCapacity(capacity * 2);
+//        }
+//
+//        // This part shows how to get a link with a particular Id.
+//        // Ids in MATSim are specific objects, created by Id.createId
+//        Id<Link> id = Id.createLinkId("1");
+//        Link link = network.getLinks().get(id);
+//        link.setCapacity(0);
+//
+//        // This modifies the network such that link with id "1" is removed
+//        network.removeLink(id);
+//        Link l = network.getLinks().get(42);
+//        l.getToNode().
 
         // This will clean the network, removing orphaned nodes and keeping only the biggest connected component.
         // It is good to run this after removing links.
