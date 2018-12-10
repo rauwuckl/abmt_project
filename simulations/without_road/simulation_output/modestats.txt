@@ -1,1 +1,0 @@
-Iteration	bike	car	other	pt	ride	walk
