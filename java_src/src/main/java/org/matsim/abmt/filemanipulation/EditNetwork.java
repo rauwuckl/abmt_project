@@ -22,7 +22,7 @@ public class EditNetwork {
 
         // this line creates a reader, that will store what it reads in the network object stored in the scenario.
         // adapt the path to the path on your filesystem.
-        new MatsimNetworkReader(scenario.getNetwork()).readFile("/Users/clemens/Documents/courses/abmt/projects/abmt_project/java_src/scenarios/deleted_road/large_new_network.xml.gz");
+        new MatsimNetworkReader(scenario.getNetwork()).readFile("/Users/clemens/Documents/courses/abmt/projects/abmt_project/analysis/network_analysis/large_new_network.xml.gz");
 
         // this part gets the network object from the scenario,
         // iterates through all links, and for each link,
@@ -53,6 +53,6 @@ public class EditNetwork {
 
         // This line simply writes our modified network to a new file.
         // The writer is able to decide on whether to compress the file or not based on the extension (.xml or .xml.gz)
-        new NetworkWriter(scenario.getNetwork()).write("network.xml.gz");
+        new NetworkWriter(scenario.getNetwork()).write("/Users/clemens/Documents/courses/abmt/projects/abmt_project/analysis/network_analysis/large_network_deleted_road_cleaned.xml.gz");
     }
 }
